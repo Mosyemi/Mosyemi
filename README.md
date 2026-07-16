@@ -276,7 +276,7 @@ The greatest invention after electricity.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mosyemi&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+ https://github-profile-trophy.vercel.app/?username=Mosyemi&theme=onedark
 
 </div>
 
@@ -816,30 +816,25 @@ Good night.
 
 <div align="center">
 
-<a href="https://github.com/mosyemi/OPMAS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mosyemi&repo=OPMAS&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Mosyemi/OPMAS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mosyemi&repo=OPMAS&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/mosyemi/Hospital-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mosyemi&repo=Hospital-Management-System&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Mosyemi/Church_project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mosyemi&repo=Church_project&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br>
 
-<a href="https://github.com/mosyemi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mosyemi&repo=Phishing-Detector&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Mosyemi/Smartmoveafrica">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mosyemi&repo=Smartmoveafrica&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/mosyemi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mosyemi&repo=Portfolio&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Mosyemi/Phishing-Detector">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mosyemi&repo=Phishing-Detector&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
-
-> **💡 Tip:** Replace the repository names above with your actual repository names if they differ.
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
