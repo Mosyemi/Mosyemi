@@ -1,91 +1,97 @@
- # 💻 whoami
+ # 💻 Terminal
 
-```bash
-$ whoami
-
-Name        :: Collins Kipchumba
-Username    :: mosyemi
-Role        :: ICT Guru
-
-Specialties ::
-
-✔ Full-Stack Web Development
-✔ Mobile App Development
-✔ Linux Administration
-✔ Networking
-✔ Cybersecurity
-✔ Database Design
-
-Mission ::
-
-Build technology that solves real-world problems.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ > whoami                                                     │
+│                                                              │
+│  Collins Kipchumba                                           │
+│                                                              │
+│  💻 ICT Guru                                                 │
+│  🚀 Software Engineer                                        │
+│  📱 Mobile App Developer                                     │
+│  🌐 Full Stack Developer                                     │
+│  🐧 Linux Enthusiast                                         │
+│  🛡️ Cybersecurity Learner                                    │
+│  🌍 Kenya 🇰🇪                                                 │
+│                                                              │
+│  Status : Online ███████████████████████████████             │
+│                                                              │
+│  Mission : Building technology that solves                   │
+│            real-world problems.                              │
+└──────────────────────────────────────────────────────────────┘
 ```
-
----
-
-# 🚀 What I Do
-
-💻 Full-Stack Web Development
-
-📱 Mobile App Development
-
-🛡️ Cybersecurity
-
-🐧 Linux Administration
-
-🌐 Computer Networking
-
-🗄️ Database Design
-
-☁️ Exploring DevOps & Cloud Technologies
-
----
-
-# 🚀 Current Projects
-
-### 🏥 OPMAS
-A modern Oxygen Plant Management System that streamlines oxygen production, inventory, maintenance, and distribution for healthcare facilities.
-
-### 🏥 Hospital Management System
-Developing a complete healthcare platform with patient records, pharmacy, laboratory, appointments, billing, and reporting.
-
-### 📱 Mobile Applications
-Building responsive Android applications focused on solving everyday challenges with clean interfaces and reliable performance.
-
-### 🔐 Cybersecurity Labs
-Hands-on practice in:
-- Ethical Hacking
-- SOC Operations
-- Digital Forensics
-- Network Security
-- Secure Coding
-
----
-
-# 💻 Tech Stack
 
 <div align="center">
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=php,python,js,java,kotlin,html,css,mysql"/>
-
-<br><br>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=symfony,bootstrap,tailwind"/>
-
-<br><br>
-
-### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java"/>
-
-<br><br>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,bash,docker,postman"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+Building+OPMAS...;%3E+Developing+Mobile+Applications...;%3E+Building+Hospital+Management+Systems...;%3E+Securing+Networks...;%3E+Developing+Web+Applications...;%3E+Learning+Cybersecurity...;%3E+Building+Software+That+Matters..." />
 
 </div>
+
+
+
+
+# ⚡ About Me
+
+```python
+class Collins:
+
+    def __init__(self):
+
+        self.name = "Collins Kipchumba"
+
+        self.username = "mosyemi"
+
+        self.title = "ICT Guru"
+
+        self.specialization = [
+            "Software Engineering",
+            "Mobile App Development",
+            "Web Development",
+            "Linux Administration",
+            "Cybersecurity",
+            "Networking"
+        ]
+
+        self.languages = [
+            "PHP",
+            "Python",
+            "JavaScript",
+            "Java",
+            "Kotlin",
+            "HTML",
+            "CSS"
+        ]
+
+        self.frameworks = [
+            "Symfony",
+            "Bootstrap",
+            "Tailwind CSS"
+        ]
+
+        self.database = [
+            "MySQL"
+        ]
+
+        self.tools = [
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Linux",
+            "Apache2",
+            "Docker"
+        ]
+
+    def current_status(self):
+
+        while True:
+
+            Learn()
+
+            Build()
+
+            Secure()
+
+            Deploy()
+
+            Repeat()
+```
